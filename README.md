@@ -1,5 +1,5 @@
 # Sistema de Cadastro de Clientes
-
+![Designsemnome20-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fa4ccbb2-174d-46bc-adbc-aeeca379fa7c)
 ## Descrição do Projeto
 Um sistema web para gerenciamento de cadastro de clientes com funcionalidades CRUD (Create, Read, Update, Delete) utilizando localStorage para persistência de dados.
 
