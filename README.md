@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/renanmabrantes)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/renanmatheuslabrantes)
 # Sistema de Cadastro de Clientes
 
 ![Designsemnome20-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fa4ccbb2-174d-46bc-adbc-aeeca379fa7c)
